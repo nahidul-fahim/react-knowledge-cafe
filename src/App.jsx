@@ -11,7 +11,7 @@ function App() {
 
       </Header>
 
-      <div className='container mx-auto p-5 flex md:flex-row flex-col gap-x-4 justify-start md:justify-between items-start'>
+      <div className='container mx-auto p-5 flex md:flex-row flex-col gap-x-12 justify-start md:justify-between items-start'>
         <Blogs>
 
         </Blogs>
