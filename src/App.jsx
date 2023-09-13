@@ -1,6 +1,7 @@
 import './App.css'
 import Header from './Components/Header/Header'
 import Blogs from './Components/Blogs/Blogs'
+import Bookmarks from './Components/Bookmarks/Bookmarks'
 
 function App() {
 
@@ -10,9 +11,15 @@ function App() {
 
       </Header>
 
-      <Blogs>
+      <div className='container mx-auto p-5 flex md:flex-row flex-col gap-x-4 justify-start md:justify-between items-start'>
+        <Blogs>
 
-      </Blogs>
+        </Blogs>
+
+        <Bookmarks>
+
+        </Bookmarks>
+      </div>
     </>
   )
 }
