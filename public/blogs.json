@@ -1,0 +1,71 @@
+[
+    {
+        "ID": 789,
+        "title": "Exploring the Latest Technological Innovations",
+        "cover_img": "https://i.ibb.co/RP1DtXB/4471706.jpg",
+        "author_name": "John Doe",
+        "author_img": "https://i.ibb.co/KmVBRg1/member2.png",
+        "posted_date": "12 September 2023",
+        "tags": [
+            "#technology",
+            "#science",
+            "#innovation"
+        ],
+        "reading_time": 10
+    },
+
+    {
+        "ID": 2345,
+        "title": "A Journey Through Uncharted Territories",
+        "cover_img": "https://i.ibb.co/rx88ZQH/4516308.jpg",
+        "author_name": "Jane Smith",
+        "author_img": "https://i.ibb.co/pfjcPNk/member3.png",
+        "posted_date": "11 September 2023",
+        "tags": [
+            "#travel",
+            "#adventure"
+        ],
+        "reading_time": 8
+    },
+
+    {
+        "ID": 456,
+        "title": "Delicious Recipes for Food Lovers",
+        "cover_img": "https://i.ibb.co/b5mRxZv/7317962.jpg",
+        "author_name": "Alice Johnson",
+        "author_img": "https://i.ibb.co/QCnKzNH/member4.png",
+        "posted_date": "10 September 2023",
+        "tags": [
+            "#food",
+            "#recipes"
+        ],
+        "reading_time": 12
+    },
+
+    {
+        "ID": 9876,
+        "title": "Sports Highlights of the Week",
+        "cover_img": "https://i.ibb.co/FbDKpsc/7572672.jpg",
+        "author_name": "Bob Wilson",
+        "author_img": "https://i.ibb.co/cJPN9h8/member1.png",
+        "posted_date": "09 September 2023",
+        "tags": [
+            "#sports"
+        ],
+        "reading_time": 6
+    },
+    
+    {
+        "ID": 1234,
+        "title": "Achieving Wellness Through Healthy Habits",
+        "cover_img": "https://i.ibb.co/xXPM436/7674576.jpg",
+        "author_name": "Eva Brown",
+        "author_img": "https://i.ibb.co/KmVBRg1/member2.png",
+        "posted_date": "08 September 2023",
+        "tags": [
+            "#health",
+            "#wellness"
+        ],
+        "reading_time": 15
+    }
+]
